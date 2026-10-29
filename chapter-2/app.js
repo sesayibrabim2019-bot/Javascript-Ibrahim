@@ -24,7 +24,7 @@ if (email === "amkam@lenosol.com" && password === 123456) {
 }
 
 // The if and control stucture
-if (email === "amkam@lenosol.com" && password === 123456) {
+if (email === "amka@lenosol.com" && password === 123456) {
   console.log("Logged in Successfully");
 } else {
   console.log("Wrong credentials");

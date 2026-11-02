@@ -23,7 +23,7 @@ if (email === "amkam@lenosol.com" && password === 123456) {
   console.log("You are logged in successfully");
 }
 
-// The if and control stucture
+// The if and else control stucture
 if (email === "amka@lenosol.com" && password === 123456) {
   console.log("Logged in Successfully");
 } else {

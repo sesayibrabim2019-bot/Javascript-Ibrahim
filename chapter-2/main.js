@@ -97,8 +97,7 @@ if (totalPrice > 15000) {
 // i.If the email of the user is not admin@lenosol.com, just welcome the user to their account
 // ii. If the email is admin@lenosol.com, State their admin status and if not admin. display they are not  an admin
 // iii. If the password is not equal to 123456 for anyone who tries to log in, print 
-"wrong Credentials"
-
+//"wrong Credentials"
 // EXERCISE 2 - Login App with Nested If
 
 let email = "admin@lenscol.com"; // try: admin@lenscol.com or student@gmail.com
